@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 5px 10px;
+    background: #599fe7;
+    color: black;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: inset 0 0 10px black;
+}
+
+.mainContent {
+    margin:auto;
+    width:fit-content;
+    align-items: center;
+    
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+h5 {
+    font-size: 12px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+/* #operationButtons {
+    margin-bottom: 30px;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+} */
+
+/* .operationType {
+    width: 30px;
+    height: 30px;
+    border: 1px;
+    border-style: dotted;
+} */
+
+/* #problemDiv {
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 100%;
+} */
+
+/* #problemSpan {
+    font-size: 36px;
+} */
+
+#additionBtn {
+    box-shadow: inset 0 0 7px black;
+}
+
